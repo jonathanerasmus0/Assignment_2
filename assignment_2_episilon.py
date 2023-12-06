@@ -16,7 +16,7 @@ Choose an option from the following:
 2. Items in warehouse 2
 3. Search and order for an item
 4. Browse items by category
-5. Goodbye 
+5. EXIT
 """
         user_choice = int(input(menu))
 
